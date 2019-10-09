@@ -1,0 +1,4 @@
+print("hello world")
+pow(3,4)
+max(4,5)
+
