@@ -1,4 +1,6 @@
 print("hello world")
 pow(3,4)
 max(4,5)
-
+min(9,3)
+print("India is my country")
+bin(5)
